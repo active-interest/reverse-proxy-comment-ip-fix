@@ -3,7 +3,7 @@
 Plugin Name: Reverse-Proxy Comment IP Fix
 Plugin URI: http://www.codetrax.org/projects/reverse-proxy-comment-ip-fix
 Description: Sets the comment IP to the client IP provided by the X-Forwarded-For header before the comment is saved to the database.
-Version: 0.1.0
+Version: 0.1.1
 Author: George Notaras
 Author URI: http://www.g-loaded.eu
 License: Apache License V2
